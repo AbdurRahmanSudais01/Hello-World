@@ -205,7 +205,8 @@ main{
     width: 100%;
     margin-right: 0px;
     justify-content: flex-start;
-    height: 70vh;
+    height: 500px;
+    margin: 35px auto;
     background-image: url(Pages/Images/food2.png);
     background-position: right;
     background-size:300px;

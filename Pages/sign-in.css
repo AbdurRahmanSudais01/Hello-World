@@ -67,6 +67,7 @@ nav a{
 /* Main */
 main{
     margin: 2% auto;
+    
     width: 40%;
     border: 1px solid;
     display: flex;
@@ -250,6 +251,12 @@ footer{
     .header__links{
         font-size: .8rem;
         padding: 10px;
+}
+main{
+    margin: 50px auto;
+    width: 80%;
+    height: 500px;
+    justify-content: space-evenly;
 }
 
 }
